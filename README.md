@@ -47,3 +47,7 @@
 <br/>
 <br/>
 
+<a href="https://github.com/rone66/github-readme-activity-graph"><img alt="rone66 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rone66&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
